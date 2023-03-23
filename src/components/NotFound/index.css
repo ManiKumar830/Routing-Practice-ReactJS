@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.not-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-image {
+  width: 50%;
+}
+.not-text {
+  font-family: 'Roboto';
+  color: #6d396b;
+  font-weight: 500;
+  font-size: 50px;
+}
